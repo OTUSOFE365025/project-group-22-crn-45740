@@ -1,1 +1,2 @@
-
+The AI-Powered Digital Assistant Platform (AIDAP) is a brownfield conversational system that integrates with existing university platforms, including the LMS, calendar, registration, and email systems. It incorporates AI capabilities into these tools, making them more interactive, intelligent, and user-friendly for students, lecturers, and administrators.
+Built on a cloud-native architecture, AIDAP ensures scalability, reliability, and continuous updates through automation. The idea is to unify fragmented academic services into a single intelligent assistant that automates reminders, supports analytics, and simplifies access to institutional data, creating a more connected and efficient educational experience.
